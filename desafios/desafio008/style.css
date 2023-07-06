@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgray;
+}
+
+ins {
+    color: rgb(17, 0, 255);
+}
+
+body#verde{
+    background-color: rgb(143, 219, 143);
+}
+
+h1#verde{
+    color: rgb(10, 75, 1);
+}
+
+body#amarela {
+    background-color: rgb(243, 243, 182);
+}
+
+h1#amarela {
+    color: rgb(151, 148, 116);
+}
+
+p#amarela {
+    color: rgb(146, 145, 127);
+}
+
